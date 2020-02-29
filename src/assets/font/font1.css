@@ -1,0 +1,11 @@
+
+@font-face {
+  font-family: 'SourceHanSans';
+  src: url('./SourceHanSansCN-Normal.eot'); /* IE9 */
+  src: url('./SourceHanSansCN-Normal.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+  url('./SourceHanSansCN-Normal.woff2') format('woff2'),
+  url('./SourceHanSansCN-Normal.woff') format('woff'),
+  url('./SourceHanSansCN-Normal.ttf') format('truetype'),/* chrome, firefox, opera, Safari, Android, iOS 4.2+ */
+  url('./SourceHanSansCN-Normal.svg#SourceHanSans') format('svg');/* iOS 4.1- */
+}
+  

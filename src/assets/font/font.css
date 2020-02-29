@@ -1,0 +1,11 @@
+
+@font-face {
+    font-family: 'FZLT';
+    /* src: url('./FZLT.ttf'); */
+    src: url('./FZLT.eot'); /* IE9 */
+    src: url('./FZLT.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+    url('./FZLT.woff2') format('woff2'),
+    url('./FZLT.woff') format('woff'),
+    url('./FZLT.ttf') format('truetype'),
+    url('./FZLT.svg#FZLT') format('svg');
+}
